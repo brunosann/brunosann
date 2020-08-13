@@ -4,7 +4,6 @@
 - **Estudando no momento:**
 > **NodeJS**
 > **ReactJs**
-> **NextJs**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosann&hide=Smarty&layout=compact&theme=synthwave" />
 
