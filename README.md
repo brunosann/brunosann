@@ -1,9 +1,13 @@
 # Hello World!
 ### Hey, I'm Bruno Teixeira! 👋
 
+
+
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Teixeira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-teixeira-920661142/)](https://www.linkedin.com/in/bruno-teixeira-920661142/) 
 
-<img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosann&hide=Smarty&layout=compact&theme=synthwave" />
+<a href= "https://github.com/anuraghazra/github-readme-stats"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosann&hide=Smarty&layout=compact&theme=synthwave" /> 
+</a> 
 <!--
 **brunosann/brunosann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
