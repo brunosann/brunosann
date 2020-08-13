@@ -1,24 +1,11 @@
 # Hello World!
 ### Hey, I'm Bruno Teixeira! 👋
+#### Apaixonado por tecnologia e desenvolvimento de software!!! :sparkling_heart: :mortar_board:  :rocket:
+- **Estudando no momento:**
+> **Node JS**
+> **ReactJs**
+> **Next Js**
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosann&hide=Smarty&layout=compact&theme=synthwave" />
 
-
-[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Teixeira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-teixeira-920661142/)](https://www.linkedin.com/in/bruno-teixeira-920661142/) 
-
-<a href= "https://github.com/anuraghazra/github-readme-stats"> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosann&hide=Smarty&layout=compact&theme=synthwave" /> 
-</a> 
-<!--
-**brunosann/brunosann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Teixeira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-teixeira-920661142/)](https://www.linkedin.com/in/bruno-teixeira-920661142/)
