@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello World!
+### Hey, I'm Bruno Teixeira! 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Teixeira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/bruno-teixeira-920661142/](https://www.linkedin.com/in/bruno-teixeira-920661142/))]([https://www.linkedin.com/in/bruno-teixeira-920661142/](https://www.linkedin.com/in/bruno-teixeira-920661142/)) 
 
 <!--
 **brunosann/brunosann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
