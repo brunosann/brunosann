@@ -5,6 +5,6 @@
 > **NodeJS**
 > **ReactJs**
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosann&hide=Smarty&layout=compact&theme=synthwave" />
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosann&hide=Smarty&layout=compact&theme=synthwave" /> -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Bruno%20Teixeira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-teixeira-920661142/)](https://www.linkedin.com/in/bruno-teixeira-920661142/)
