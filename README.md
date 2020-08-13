@@ -2,8 +2,8 @@
 ### Hey, I'm Bruno Teixeira! 👋
 #### Apaixonado por tecnologia e desenvolvimento de software!!! :sparkling_heart: :mortar_board:  :rocket:
 - **Estudando no momento:**
-> **Node JS, **
-> **ReactJs, **
+> **Node JS**
+> **ReactJs**
 > **Next Js**
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosann&hide=Smarty&layout=compact&theme=synthwave" />
